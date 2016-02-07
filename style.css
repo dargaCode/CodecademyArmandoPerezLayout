@@ -88,6 +88,13 @@ h1 {
   margin: 0 -15px;
 }
 
+.gallery .img-row:after {
+  /*Clear-fix*/
+  content: "";
+  display: block;
+  clear: both;
+}
+
 .gallery img {
   width: 33.33%;
   float: left;
