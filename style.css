@@ -84,6 +84,16 @@ h1 {
 
 /*GALLERY*/
 
+.gallery .img-row {
+  margin: 0 -15px;
+}
+
+.gallery img {
+  width: 33.33%;
+  float: left;
+  padding: 10px 15px;
+}
+
 /*FOOTER*/
 
 /*MEDIA QUERIES*/
