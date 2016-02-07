@@ -19,6 +19,15 @@ body {
   margin: 0 auto;
 }
 
+h1 {
+  color: white;
+  font-size: 30px;
+  font-weight: 100;
+  text-transform: uppercase;
+  margin: 0;
+  padding; 0;
+}
+
 /*HEADER*/
 
 /*GALLERY*/
