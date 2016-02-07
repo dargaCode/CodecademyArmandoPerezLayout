@@ -103,4 +103,30 @@ h1 {
 
 /*FOOTER*/
 
+.footer {
+  padding: 50px 0 25px;
+}
+
+.footer ul {
+  list-style: none;
+  margin: 0 0 0 -20px;
+  padding: 0;
+}
+
+.footer ul li {
+  display: inline;
+}
+
+.footer ul li a {
+  font-size: 14px;
+  text-decoration: none;
+  text-transform: lowercase;
+  color: black;
+  margin: 0 20px;
+}
+
+.footer ul li a:hover {
+  text-decoration: underline;
+}
+
 /*MEDIA QUERIES*/
