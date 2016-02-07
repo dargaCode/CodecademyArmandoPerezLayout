@@ -156,8 +156,6 @@ h1 {
 
   /*GLOBAL*/
 
-  /*HEADER*/
-
   /*GALLERY*/
 
   .gallery .img-row img {
@@ -179,6 +177,10 @@ h1 {
 
   /*GLOBAL*/
 
+  h1 {
+    color: black;
+  }
+
   /*HEADER*/
 
   /*GALLERY*/
@@ -194,6 +196,12 @@ h1 {
 @media (max-width: 500px) {
 
   /*GLOBAL*/
+
+  h1 {
+    width: 100%;
+    float: none;
+    text-align: center;
+  }
 
   /*HEADER*/
 
