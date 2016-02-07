@@ -158,6 +158,11 @@ h1 {
 
   /*HEADER*/
 
+  .header ul {
+    clear: left;
+    margin-top: 15px;
+  }
+
   /*GALLERY*/
 
   .gallery .img-row img {
@@ -185,6 +190,11 @@ h1 {
 
   /*HEADER*/
 
+  .header ul {
+    float: left;
+    clear: left;
+  }
+
   /*GALLERY*/
 
   .gallery .img-row img {
@@ -210,6 +220,20 @@ h1 {
   }
 
   /*HEADER*/
+
+  .header {
+    padding-bottom: 20px;
+  }
+
+  .header ul {
+    float: none;
+    margin-top: 20px;
+  }
+
+  .header ul li a {
+    display: block;
+    width: 100%;
+  }
 
   /*GALLERY*/
 
