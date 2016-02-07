@@ -205,6 +205,10 @@ h1 {
 
   /*FOOTER*/
 
+  .footer {
+    height: 200px;
+  }
+
   .footer ul li a {
     display: block;
     text-align: center;
