@@ -5,6 +5,7 @@ body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/armando-perez/brand.jpg) no-repeat left top / contain;
 }
 
 *,
