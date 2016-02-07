@@ -162,6 +162,13 @@ h1 {
 
   /*FOOTER*/
 
+  .footer ul {
+    position: static;
+    display: block;
+    max-width: 348px;
+    margin: 0 auto;
+  }
+
 }
 
 @media (max-width: 768px) {
@@ -186,4 +193,9 @@ h1 {
 
   /*FOOTER*/
 
+  .footer ul li a {
+    display: block;
+    text-align: center;
+    margin-bottom: 14px;
+  }
 }
