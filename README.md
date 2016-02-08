@@ -1,7 +1,7 @@
 # Armando Pérez Page Layout
 <strong>Language: HTML/CSS</strong>
 
-This one went pretty quickly. Here’s the example layout.
+This one went pretty quickly. <a href="https://s3.amazonaws.com/codecademy-content/projects/armando-perez/index.html">Here’s the example layout</a>.
 
 I read that accurate mental model of how CSS works is a huge help toward working efficiently, and I’m starting to enjoy those benefits. 
 
